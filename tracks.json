@@ -169,7 +169,8 @@
   "slug": "挖矿舞",
   "modelMotionFile": "tracks/挖矿舞/cap wudao.vmd",
   "camMotionFile": "tracks/挖矿舞/镜头.vmd",
-  "audioPlayerFile": "tracks/挖矿舞/39480659244-1-30232.wav"
+  "audioPlayerFile": "tracks/挖矿舞/39480659244-1-30232.wav",
+  "expressionMotionFile": "tracks/挖矿舞/cap wudaobq.vmd"
  },
  {
   "name": "摇一摇",
@@ -233,6 +234,7 @@
   "repo": "motions8",
   "slug": "黄瓜",
   "modelMotionFile": "tracks/黄瓜/huanggua.vmd",
-  "audioPlayerFile": "tracks/黄瓜/39823671322-1-30232.wav"
+  "audioPlayerFile": "tracks/黄瓜/39823671322-1-30232.wav",
+  "expressionMotionFile": "tracks/黄瓜/huangguabq.vmd"
  }
 ]
