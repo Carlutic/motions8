@@ -1,0 +1,238 @@
+[
+ {
+  "name": "DaDaDa",
+  "repo": "motions8",
+  "slug": "DaDaDa",
+  "modelMotionFile": "tracks/DaDaDa/dadada.vmd",
+  "camMotionFile": "tracks/DaDaDa/dadadajt.vmd",
+  "expressionMotionFile": "tracks/DaDaDa/dadadabq.vmd"
+ },
+ {
+  "name": "QueenCard",
+  "repo": "motions8",
+  "slug": "QueenCard",
+  "modelMotionFile": "tracks/QueenCard/QueenCard.vmd",
+  "camMotionFile": "tracks/QueenCard/Queencard_cam.vmd",
+  "audioPlayerFile": "tracks/QueenCard/QueenCard.wav"
+ },
+ {
+  "name": "SOS",
+  "repo": "motions8",
+  "slug": "SOS",
+  "modelMotionFile": "tracks/SOS/SOS_Motion.vmd",
+  "camMotionFile": "tracks/SOS/SOS_Camera.vmd",
+  "audioPlayerFile": "tracks/SOS/019_fuysos.wav"
+ },
+ {
+  "name": "kici ki 左右猫猫摇",
+  "repo": "motions8",
+  "slug": "kici_ki_左右猫猫摇",
+  "modelMotionFile": "tracks/kici_ki_左右猫猫摇/左右猫猫摇.vmd",
+  "camMotionFile": "tracks/kici_ki_左右猫猫摇/左右猫猫摇镜头.vmd",
+  "expressionMotionFile": "tracks/kici_ki_左右猫猫摇/左右猫猫摇表情.vmd",
+  "audioPlayerFile": "tracks/kici_ki_左右猫猫摇/kici ki 左右猫猫摇给力嘎嘎BGM.wav"
+ },
+ {
+  "name": "QueenCard（短版）",
+  "repo": "motions8",
+  "slug": "QueenCard（短版）",
+  "modelMotionFile": "tracks/QueenCard（短版）/queencard motion by c卡萨.vmd",
+  "audioPlayerFile": "tracks/QueenCard（短版）/Queencard.wav"
+ },
+ {
+  "name": "q冰摇",
+  "repo": "motions8",
+  "slug": "q冰摇",
+  "modelMotionFile": "tracks/q冰摇/q冰.vmd",
+  "camMotionFile": "tracks/q冰摇/q冰摇镜头.vmd",
+  "expressionMotionFile": "tracks/q冰摇/q冰表情.vmd",
+  "audioPlayerFile": "tracks/q冰摇/bgm.wav"
+ },
+ {
+  "name": "rollnrock扭腰",
+  "repo": "motions8",
+  "slug": "rollnrock扭腰",
+  "modelMotionFile": "tracks/rollnrock扭腰/狂扭.vmd",
+  "camMotionFile": "tracks/rollnrock扭腰/狂扭camera.vmd",
+  "expressionMotionFile": "tracks/rollnrock扭腰/狂扭表情.vmd"
+ },
+ {
+  "name": "yteteds扭胯（低胯 普通）",
+  "repo": "motions8",
+  "slug": "yteteds扭胯（低胯_普通）",
+  "modelMotionFile": "tracks/yteteds扭胯（低胯_普通）/yreteds摇 低扭胯版.vmd",
+  "camMotionFile": "tracks/yteteds扭胯（低胯_普通）/yreteds摇镜头.vmd",
+  "expressionMotionFile": "tracks/yteteds扭胯（低胯_普通）/yreteds摇表情1.vmd",
+  "audioPlayerFile": "tracks/yteteds扭胯（低胯_普通）/bgm  抖音直接找我拍同款 不然过不了审.wav"
+ },
+ {
+  "name": "yteteds扭胯（低胯 翻白眼）",
+  "repo": "motions8",
+  "slug": "yteteds扭胯（低胯_翻白眼）",
+  "modelMotionFile": "tracks/yteteds扭胯（低胯_翻白眼）/yreteds摇 低扭胯版.vmd",
+  "camMotionFile": "tracks/yteteds扭胯（低胯_翻白眼）/yreteds摇镜头.vmd",
+  "expressionMotionFile": "tracks/yteteds扭胯（低胯_翻白眼）/yreteds摇表情带翻白眼.vmd",
+  "audioPlayerFile": "tracks/yteteds扭胯（低胯_翻白眼）/bgm  抖音直接找我拍同款 不然过不了审.wav"
+ },
+ {
+  "name": "yteteds扭胯（高胯 普通）",
+  "repo": "motions8",
+  "slug": "yteteds扭胯（高胯_普通）",
+  "modelMotionFile": "tracks/yteteds扭胯（高胯_普通）/yreteds摇 高扭胯版.vmd",
+  "camMotionFile": "tracks/yteteds扭胯（高胯_普通）/yreteds摇镜头.vmd",
+  "expressionMotionFile": "tracks/yteteds扭胯（高胯_普通）/yreteds摇表情1.vmd",
+  "audioPlayerFile": "tracks/yteteds扭胯（高胯_普通）/bgm  抖音直接找我拍同款 不然过不了审.wav"
+ },
+ {
+  "name": "yteteds扭胯（高胯 翻白眼）",
+  "repo": "motions8",
+  "slug": "yteteds扭胯（高胯_翻白眼）",
+  "modelMotionFile": "tracks/yteteds扭胯（高胯_翻白眼）/yreteds摇 高扭胯版.vmd",
+  "camMotionFile": "tracks/yteteds扭胯（高胯_翻白眼）/yreteds摇镜头.vmd",
+  "expressionMotionFile": "tracks/yteteds扭胯（高胯_翻白眼）/yreteds摇表情带翻白眼.vmd",
+  "audioPlayerFile": "tracks/yteteds扭胯（高胯_翻白眼）/bgm  抖音直接找我拍同款 不然过不了审.wav"
+ },
+ {
+  "name": "夜色摇",
+  "repo": "motions8",
+  "slug": "夜色摇",
+  "modelMotionFile": "tracks/夜色摇/夜色摇.vmd",
+  "camMotionFile": "tracks/夜色摇/夜色摇镜头.vmd",
+  "expressionMotionFile": "tracks/夜色摇/夜色摇表情.vmd",
+  "audioPlayerFile": "tracks/夜色摇/39650790142-1-30232.wav"
+ },
+ {
+  "name": "小鹿乱撞",
+  "repo": "motions8",
+  "slug": "小鹿乱撞",
+  "modelMotionFile": "tracks/小鹿乱撞/小鹿乱撞 动作.vmd",
+  "camMotionFile": "tracks/小鹿乱撞/镜头.vmd",
+  "audioPlayerFile": "tracks/小鹿乱撞/31714839045-1-30232.wav"
+ },
+ {
+  "name": "轻奢舞（带镜头）",
+  "repo": "motions8",
+  "slug": "轻奢舞（带镜头）",
+  "modelMotionFile": "tracks/轻奢舞（带镜头）/轻奢舞手臂优化.vmd",
+  "camMotionFile": "tracks/轻奢舞（带镜头）/镜头by吉平欧尼酱.vmd",
+  "expressionMotionFile": "tracks/轻奢舞（带镜头）/轻奢扭胯舞表情.vmd",
+  "audioPlayerFile": "tracks/轻奢舞（带镜头）/40287469624-1-30232.wav"
+ },
+ {
+  "name": "弹跳扣扣舞（少女）",
+  "repo": "motions8",
+  "slug": "弹跳扣扣舞（少女）",
+  "modelMotionFile": "tracks/弹跳扣扣舞（少女）/弹跳扣13 适合少女体型.vmd",
+  "camMotionFile": "tracks/弹跳扣扣舞（少女）/擦边镜头.vmd",
+  "expressionMotionFile": "tracks/弹跳扣扣舞（少女）/弹跳扣13舞表情.vmd",
+  "audioPlayerFile": "tracks/弹跳扣扣舞（少女）/bgm.wav"
+ },
+ {
+  "name": "弹跳扣扣舞（普通）",
+  "repo": "motions8",
+  "slug": "弹跳扣扣舞（普通）",
+  "modelMotionFile": "tracks/弹跳扣扣舞（普通）/弹跳扣13舞.vmd",
+  "camMotionFile": "tracks/弹跳扣扣舞（普通）/擦边镜头.vmd",
+  "expressionMotionFile": "tracks/弹跳扣扣舞（普通）/弹跳扣13舞表情.vmd",
+  "audioPlayerFile": "tracks/弹跳扣扣舞（普通）/bgm.wav"
+ },
+ {
+  "name": "恋爱条件",
+  "repo": "motions8",
+  "slug": "恋爱条件",
+  "modelMotionFile": "tracks/恋爱条件/恋爱条件最终.vmd",
+  "camMotionFile": "tracks/恋爱条件/恋爱条件镜头.vmd",
+  "expressionMotionFile": "tracks/恋爱条件/恋爱条件表情.vmd",
+  "audioPlayerFile": "tracks/恋爱条件/BGM.wav"
+ },
+ {
+  "name": "抬抬腿",
+  "repo": "motions8",
+  "slug": "抬抬腿",
+  "modelMotionFile": "tracks/抬抬腿/taitui.vmd",
+  "camMotionFile": "tracks/抬抬腿/taitui镜头.vmd",
+  "expressionMotionFile": "tracks/抬抬腿/taitui表情.vmd",
+  "audioPlayerFile": "tracks/抬抬腿/42587652965-1-30232.wav"
+ },
+ {
+  "name": "抬腿",
+  "repo": "motions8",
+  "slug": "抬腿",
+  "modelMotionFile": "tracks/抬腿/抬腿.vmd",
+  "camMotionFile": "tracks/抬腿/抬腿镜头.vmd",
+  "expressionMotionFile": "tracks/抬腿/抬腿表情.vmd",
+  "audioPlayerFile": "tracks/抬腿/BGM.wav"
+ },
+ {
+  "name": "挖矿舞",
+  "repo": "motions8",
+  "slug": "挖矿舞",
+  "modelMotionFile": "tracks/挖矿舞/cap wudao.vmd",
+  "camMotionFile": "tracks/挖矿舞/镜头.vmd",
+  "audioPlayerFile": "tracks/挖矿舞/39480659244-1-30232.wav"
+ },
+ {
+  "name": "摇一摇",
+  "repo": "motions8",
+  "slug": "摇一摇",
+  "modelMotionFile": "tracks/摇一摇/111.vmd",
+  "camMotionFile": "tracks/摇一摇/1camera.vmd",
+  "expressionMotionFile": "tracks/摇一摇/1表情.vmd",
+  "audioPlayerFile": "tracks/摇一摇/bgm.wav"
+ },
+ {
+  "name": "摇头晃脑",
+  "repo": "motions8",
+  "slug": "摇头晃脑",
+  "modelMotionFile": "tracks/摇头晃脑/摇头.vmd",
+  "camMotionFile": "tracks/摇头晃脑/摇头镜头.vmd",
+  "expressionMotionFile": "tracks/摇头晃脑/摇头表情.vmd",
+  "audioPlayerFile": "tracks/摇头晃脑/39664419291-1-30232.wav"
+ },
+ {
+  "name": "沦陷",
+  "repo": "motions8",
+  "slug": "沦陷",
+  "modelMotionFile": "tracks/沦陷/沦陷2.vmd",
+  "camMotionFile": "tracks/沦陷/沦陷镜头.vmd",
+  "expressionMotionFile": "tracks/沦陷/沦陷表情.vmd",
+  "audioPlayerFile": "tracks/沦陷/沦陷BGM.wav"
+ },
+ {
+  "name": "短裙AOA",
+  "repo": "motions8",
+  "slug": "短裙AOA",
+  "modelMotionFile": "tracks/短裙AOA/动作.vmd",
+  "audioPlayerFile": "tracks/短裙AOA/1月27日(1).WAV"
+ },
+ {
+  "name": "萝莉神的安魂曲（正常）",
+  "repo": "motions8",
+  "slug": "萝莉神的安魂曲（正常）",
+  "modelMotionFile": "tracks/萝莉神的安魂曲（正常）/正常身材 .vmd",
+  "audioPlayerFile": "tracks/萝莉神的安魂曲（正常）/bgm.wav"
+ },
+ {
+  "name": "萝莉神的安魂曲（萝莉）",
+  "repo": "motions8",
+  "slug": "萝莉神的安魂曲（萝莉）",
+  "modelMotionFile": "tracks/萝莉神的安魂曲（萝莉）/五短身材（可莉）.vmd",
+  "audioPlayerFile": "tracks/萝莉神的安魂曲（萝莉）/bgm.wav"
+ },
+ {
+  "name": "越南鼓点",
+  "repo": "motions8",
+  "slug": "越南鼓点",
+  "modelMotionFile": "tracks/越南鼓点/lookingahead.vmd",
+  "camMotionFile": "tracks/越南鼓点/镜头.vmd",
+  "expressionMotionFile": "tracks/越南鼓点/lookingahead表情.vmd",
+  "audioPlayerFile": "tracks/越南鼓点/39568803183-1-30232.wav"
+ },
+ {
+  "name": "黄瓜",
+  "repo": "motions8",
+  "slug": "黄瓜",
+  "modelMotionFile": "tracks/黄瓜/huanggua.vmd",
+  "audioPlayerFile": "tracks/黄瓜/39823671322-1-30232.wav"
+ }
+]
