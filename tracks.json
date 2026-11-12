@@ -236,5 +236,198 @@
   "modelMotionFile": "tracks/黄瓜/huanggua.vmd",
   "audioPlayerFile": "tracks/黄瓜/39823671322-1-30232.wav",
   "expressionMotionFile": "tracks/黄瓜/huangguabq.vmd"
+ },
+ {
+  "name": "Fortnite - Feel The Flow",
+  "repo": "motions8",
+  "slug": "fortnite-feel-the-flow",
+  "modelMotionFile": "tracks/fortnite-feel-the-flow/model.vmd",
+  "audioPlayerFile": "tracks/fortnite-feel-the-flow/audio.wav"
+ },
+ {
+  "name": "Fortnite - Frolic",
+  "repo": "motions8",
+  "slug": "fortnite-frolic",
+  "modelMotionFile": "tracks/fortnite-frolic/model.vmd",
+  "audioPlayerFile": "tracks/fortnite-frolic/audio.wav"
+ },
+ {
+  "name": "Fortnite - Glyphic",
+  "repo": "motions8",
+  "slug": "fortnite-glyphic",
+  "modelMotionFile": "tracks/fortnite-glyphic/model.vmd",
+  "audioPlayerFile": "tracks/fortnite-glyphic/audio.wav"
+ },
+ {
+  "name": "Fortnite - Made You Look",
+  "repo": "motions8",
+  "slug": "fortnite-made-you-look",
+  "modelMotionFile": "tracks/fortnite-made-you-look/model.vmd",
+  "audioPlayerFile": "tracks/fortnite-made-you-look/audio.wav"
+ },
+ {
+  "name": "Fortnite - Verve",
+  "repo": "motions8",
+  "slug": "fortnite-verve",
+  "modelMotionFile": "tracks/fortnite-verve/model.vmd",
+  "audioPlayerFile": "tracks/fortnite-verve/audio.wav"
+ },
+ {
+  "name": "Friday the 13th - California Gurls",
+  "repo": "motions8",
+  "slug": "friday-the-13th-california-gurls",
+  "modelMotionFile": "tracks/friday-the-13th-california-gurls/model.vmd",
+  "camMotionFile": "tracks/friday-the-13th-california-gurls/camera.vmd",
+  "audioPlayerFile": "tracks/friday-the-13th-california-gurls/audio.wav"
+ },
+ {
+  "name": "Mstar - YooHoo",
+  "repo": "motions8",
+  "slug": "mstar-yoohoo",
+  "modelMotionFile": "tracks/mstar-yoohoo/model.vmd",
+  "audioPlayerFile": "tracks/mstar-yoohoo/audio.wav"
+ },
+ {
+  "name": "PUBG - 2 Phut Hon",
+  "repo": "motions8",
+  "slug": "pubg-2-phut-hon",
+  "modelMotionFile": "tracks/pubg-2-phut-hon/model.vmd",
+  "expressionMotionFile": "tracks/pubg-2-phut-hon/expression.vmd",
+  "audioPlayerFile": "tracks/pubg-2-phut-hon/audio.wav"
+ },
+ {
+  "name": "PUBG - BBoom BBoom",
+  "repo": "motions8",
+  "slug": "pubg-bboom-bboom",
+  "modelMotionFile": "tracks/pubg-bboom-bboom/model.vmd",
+  "camMotionFile": "tracks/pubg-bboom-bboom/camera.vmd",
+  "audioPlayerFile": "tracks/pubg-bboom-bboom/audio.wav"
+ },
+ {
+  "name": "PUBG - Chic and Charming",
+  "repo": "motions8",
+  "slug": "pubg-chic-and-charming",
+  "modelMotionFile": "tracks/pubg-chic-and-charming/model.vmd",
+  "audioPlayerFile": "tracks/pubg-chic-and-charming/audio.wav"
+ },
+ {
+  "name": "PUBG - Cute Wave Dance",
+  "repo": "motions8",
+  "slug": "pubg-cute-wave-dance",
+  "modelMotionFile": "tracks/pubg-cute-wave-dance/model.vmd",
+  "audioPlayerFile": "tracks/pubg-cute-wave-dance/audio.wav"
+ },
+ {
+  "name": "PUBG - Fabulous Fame",
+  "repo": "motions8",
+  "slug": "pubg-fabulous-fame",
+  "modelMotionFile": "tracks/pubg-fabulous-fame/model.vmd",
+  "expressionMotionFile": "tracks/pubg-fabulous-fame/expression.vmd",
+  "audioPlayerFile": "tracks/pubg-fabulous-fame/audio.wav"
+ },
+ {
+  "name": "PUBG - Halloween Beast",
+  "repo": "motions8",
+  "slug": "pubg-halloween-beast",
+  "modelMotionFile": "tracks/pubg-halloween-beast/model.vmd",
+  "camMotionFile": "tracks/pubg-halloween-beast/camera.vmd",
+  "expressionMotionFile": "tracks/pubg-halloween-beast/expression.vmd",
+  "audioPlayerFile": "tracks/pubg-halloween-beast/audio.wav"
+ },
+ {
+  "name": "PUBG - Hey Mama",
+  "repo": "motions8",
+  "slug": "pubg-hey-mama",
+  "modelMotionFile": "tracks/pubg-hey-mama/model.vmd",
+  "audioPlayerFile": "tracks/pubg-hey-mama/audio.wav"
+ },
+ {
+  "name": "PUBG - Instant 21",
+  "repo": "motions8",
+  "slug": "pubg-instant-21",
+  "modelMotionFile": "tracks/pubg-instant-21/model.vmd",
+  "camMotionFile": "tracks/pubg-instant-21/camera.vmd",
+  "audioPlayerFile": "tracks/pubg-instant-21/audio.wav"
+ },
+ {
+  "name": "PUBG - New State Style",
+  "repo": "motions8",
+  "slug": "pubg-new-state-style",
+  "modelMotionFile": "tracks/pubg-new-state-style/model.vmd",
+  "audioPlayerFile": "tracks/pubg-new-state-style/audio.wav"
+ },
+ {
+  "name": "PUBG - POPPY",
+  "repo": "motions8",
+  "slug": "pubg-poppy",
+  "modelMotionFile": "tracks/pubg-poppy/model.vmd",
+  "audioPlayerFile": "tracks/pubg-poppy/audio.wav"
+ },
+ {
+  "name": "PUBG - Roll n' Rock",
+  "repo": "motions8",
+  "slug": "pubg-roll-n-rock",
+  "modelMotionFile": "tracks/pubg-roll-n-rock/model.vmd",
+  "audioPlayerFile": "tracks/pubg-roll-n-rock/audio.wav"
+ },
+ {
+  "name": "PUBG - STAY 58",
+  "repo": "motions8",
+  "slug": "pubg-stay-58",
+  "modelMotionFile": "tracks/pubg-stay-58/model.vmd",
+  "camMotionFile": "tracks/pubg-stay-58/camera.vmd",
+  "audioPlayerFile": "tracks/pubg-stay-58/audio.wav"
+ },
+ {
+  "name": "PUBG - Samsara",
+  "repo": "motions8",
+  "slug": "pubg-samsara",
+  "modelMotionFile": "tracks/pubg-samsara/model.vmd",
+  "audioPlayerFile": "tracks/pubg-samsara/audio.wav"
+ },
+ {
+  "name": "PUBG - See Tinh",
+  "repo": "motions8",
+  "slug": "pubg-see-tinh",
+  "modelMotionFile": "tracks/pubg-see-tinh/model.vmd",
+  "expressionMotionFile": "tracks/pubg-see-tinh/expression.vmd",
+  "audioPlayerFile": "tracks/pubg-see-tinh/audio.wav"
+ },
+ {
+  "name": "PUBG - Solar Dance",
+  "repo": "motions8",
+  "slug": "pubg-solar-dance",
+  "modelMotionFile": "tracks/pubg-solar-dance/model.vmd",
+  "expressionMotionFile": "tracks/pubg-solar-dance/expression.vmd",
+  "audioPlayerFile": "tracks/pubg-solar-dance/audio.wav"
+ },
+ {
+  "name": "PUBG - The Magic Bomb",
+  "repo": "motions8",
+  "slug": "pubg-the-magic-bomb",
+  "modelMotionFile": "tracks/pubg-the-magic-bomb/model.vmd",
+  "expressionMotionFile": "tracks/pubg-the-magic-bomb/expression.vmd",
+  "audioPlayerFile": "tracks/pubg-the-magic-bomb/audio.wav"
+ },
+ {
+  "name": "PUBG - Victory Dance 118",
+  "repo": "motions8",
+  "slug": "pubg-victory-dance-118",
+  "modelMotionFile": "tracks/pubg-victory-dance-118/model.vmd",
+  "audioPlayerFile": "tracks/pubg-victory-dance-118/audio.wav"
+ },
+ {
+  "name": "PUBG - Victory Dance 70",
+  "repo": "motions8",
+  "slug": "pubg-victory-dance-70",
+  "modelMotionFile": "tracks/pubg-victory-dance-70/model.vmd",
+  "audioPlayerFile": "tracks/pubg-victory-dance-70/audio.wav"
+ },
+ {
+  "name": "PUBG - Victory Dance Axe Gang",
+  "repo": "motions8",
+  "slug": "pubg-victory-dance-axe-gang",
+  "modelMotionFile": "tracks/pubg-victory-dance-axe-gang/model.vmd",
+  "audioPlayerFile": "tracks/pubg-victory-dance-axe-gang/audio.wav"
  }
 ]
